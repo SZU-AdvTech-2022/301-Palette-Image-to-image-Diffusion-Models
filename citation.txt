@@ -1,0 +1,7 @@
+@inproceedings{REPO-302,
+    author = "Saharia, Chitwan and Chan, William and Chang, Huiwen and Lee, Chris and Ho, Jonathan and Salimans, Tim and Fleet, David and Norouzi, Mohammad",
+    booktitle = "ACM SIGGRAPH 2022 Conference Proceedings",
+    pages = "1--10",
+    title = "{Palette: Image-to-image Diffusion Models}",
+    year = "2022"
+}
